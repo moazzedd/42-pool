@@ -1,10 +1,12 @@
-<img width="1012" alt="Capture d’écran 2022-11-04 à 00 33 39" src="https://user-images.githubusercontent.com/96823772/199854612-03103ca7-fa2c-4c1f-a260-c22d43b1fdcb.png">
-
 # 1337
- My solutions for the June Piscine 2021. <br />
+
+My solutions for the Jully Piscine 2022. <br />
   Please open an issue on github if you find anything incorrect.<br/>
   If you have any tips I would like to hear, any feedback is appreciated. Thank you. <br/>
  `Don't Copy, Learn.` <br />
+ 
+<img width="1012" alt="Capture d’écran 2022-11-04 à 00 33 39" src="https://user-images.githubusercontent.com/96823772/199854612-03103ca7-fa2c-4c1f-a260-c22d43b1fdcb.png">
+
 
 # READ THIS BEFORE YOU PASS THE EXAM <br/>
 ### **Logging into and setting up an exam** <br/>
