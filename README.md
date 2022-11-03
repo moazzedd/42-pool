@@ -1,3 +1,5 @@
+<img width="1012" alt="Capture d’écran 2022-11-04 à 00 33 39" src="https://user-images.githubusercontent.com/96823772/199854612-03103ca7-fa2c-4c1f-a260-c22d43b1fdcb.png">
+
 # 1337
  My solutions for the June Piscine 2021. <br />
   Please open an issue on github if you find anything incorrect.<br/>
