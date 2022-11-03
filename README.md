@@ -6,7 +6,8 @@ My solutions for the Jully Piscine 2022. <br />
  `Don't Copy, Learn.` <br />
  
 <img width="1012" alt="Capture d’écran 2022-11-04 à 00 33 39" src="https://user-images.githubusercontent.com/96823772/199854612-03103ca7-fa2c-4c1f-a260-c22d43b1fdcb.png">
-### **Level** <br />
+
+### **Level** <br/>
 <img width="871" alt="Capture d’écran 2022-11-04 à 00 45 21" src="https://user-images.githubusercontent.com/96823772/199855799-f7836b8a-468a-4b74-81f1-0a23031c20d4.png">
 
 
