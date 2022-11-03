@@ -48,7 +48,7 @@ for more tips: https://www.42.us.org/top-21-tips-surviving-42-piscine-basic-trai
 | C08 | [100%](./C08) |
 | C09 |  [100%](./C09)| 
 | C10 | [not rated](./C10) | 
-| C11 | [100%](./C11) | 
+| C11 | [not rated](./C11) | 
 | C12 |  [not rated](./C12) | 
 | C13 | [not rated](./C13) | 
 | Exam00 | [85%](./EXAM00) | 
